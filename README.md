@@ -54,7 +54,9 @@ The Y intercept marked is marked as follows: -  eg. if we have total 20 Reads: 1
 graph LR
 A[15 distinct reads] -- Percent singletons--> B(10 Singletons/15 distinct=66%)
 A --Percent duplicates--> C(5 duplicates/15 distinct reads=33%)
+
 ```
+
 In short if you are looking at fastqc plot of (Chip-Seq/RNA-seq/WGS) don't freak out if you have duplicates. The true duplicates can be identified only after alignment of reads with the reference, followed by markduplicates (Picard). 
 
 Related Literature: 
