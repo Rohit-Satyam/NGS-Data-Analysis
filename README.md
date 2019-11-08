@@ -52,8 +52,8 @@ The Y intercept marked is marked as follows: -  eg. if we have total 20 Reads: 1
 
 ```mermaid
 graph LR
-A[15 distinct reads] -- Percent singletons--> B(10 Singletons/15 distinct=66%)
-A --Percent duplicates--> C(5 duplicates/15 distinct reads=33%)
+A[15 distinct reads  ] -- Percent singletons--> B(10 Singletons/15 distinct=66%  )
+A --Percent duplicates--> C(5 duplicates/15 distinct reads=33%  )
 
 ```
 
