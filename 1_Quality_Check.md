@@ -5,7 +5,7 @@ Tool used: [Fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 1. Sequencing Quality Issues: [Base-calling for next-generation sequencing platforms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178052/pdf/bbq077.pdf)
 2. QC Faulire: In case if your data quality fails, look [here](https://sequencing.qcfail.com/software/fastqc/)
 
-paired-end sequencing is designed so that there is no overlap between forward and reverse reads. It is not done in order to read the same sequence in two directions. Having overlap data is less useful than having two unique reads that are a known distance apart.
+Note: Paired-end sequencing is designed so that there is no overlap between forward and reverse reads. It is not done in order to read the same sequence in two directions. Having overlap data is less useful than having two unique reads that are a known distance apart.
 
 
 ## Duplicates in FastQC report (A general Account)
