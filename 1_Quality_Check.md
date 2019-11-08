@@ -1,4 +1,4 @@
-## **Quality Check**
+# **Quality Check**
 
 Tool used: [Fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) 
 **Relevant Literature:** 
