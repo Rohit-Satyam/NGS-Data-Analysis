@@ -10,6 +10,13 @@ This repository tries to enlist the best practices for NGS Data Analysis in gene
 4. An interesting TED talk to get you excited: [How to read the genome and build a human being | Riccardo Sabatini](https://www.youtube.com/watch?v=s6rJLXq1Re0)
 5. Various NGS Platforms [here](https://www.youtube.com/watch?v=jFCD8Q6qSTM)
 
+**Which Genome to start with: Grch37 or Grch38**
+1. [Genomic Analysis in the Age of Human Genome Sequencing](https://www.cell.com/cell/pdf/S0092-8674(19)30215-6.pdf)
+2. [Improvements and impacts of GRCh38 human reference on highthroughput sequencing data analysis](https://reader.elsevier.com/reader/sd/pii/S0888754317300058?token=B5C78CB9E937FF3A9DF0D53979D9849E6ACA7B6D5BC28FF094C7E5128C8F4089635B13F0B6012A0E04686A908927459A)
+3. [Get to Know Your Reference Genome (GRCh37 vs GRCh38)](https://bitesizebio.com/38335/get-to-know-your-reference-genome-grch37-vs-grch38/)
+4. GATK Post: [Human genome reference builds - GRCh38/hg38 - b37 - hg19](https://gatkforums.broadinstitute.org/gatk/discussion/11010/human-genome-reference-builds-grch38-hg38-b37-hg19)
+5. 
+
 **System Preparation**
 To make your life easy read my System Preparation Section before embarking upon the analysis part.
 
