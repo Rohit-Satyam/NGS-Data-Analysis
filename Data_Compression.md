@@ -11,7 +11,8 @@ Bzip2 is better compression than gzip (have a better compression rato). The othe
 
 However though bzip2 have better compression ratio than gzip, it comes at the cost of speed. Here are some stats:
 
->decompression speed (fast > slow): gzip, zip > 7z > rar > bzip2 \ >compression speed (fast > slow): gzip, zip > bzip2 > 7z > rar
->compression ratio (better > worse): 7z > rar, bzip2 > gzip > zip
->availability (unix): gzip > bzip2 > zip > 7z > rar
->availability (windows): zip > rar > 7z > gzip, bzip2
+>decompression speed (fast > slow): gzip, zip > 7z > rar > bzip2 <br /> 
+>compression speed (fast > slow): gzip, zip > bzip2 > 7z > rar <br />
+>compression ratio (better > worse): 7z > rar, bzip2 > gzip > zip <br />
+>availability (unix): gzip > bzip2 > zip > 7z > rar <br />
+>availability (windows): zip > rar > 7z > gzip, bzip2 <br />
