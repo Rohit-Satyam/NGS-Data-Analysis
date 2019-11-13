@@ -1,6 +1,6 @@
-# BSUB -J cchip.sh
-# BSUB -o cchip.o
-# BSUB -e cchip.e
+# BSUB -J alignment.sh
+# BSUB -o alignment.o
+# BSUB -e alignment.e
 # BSUB -m node14
 # BSUB -n 8
 
