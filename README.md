@@ -16,6 +16,8 @@ This repository tries to enlist the best practices for NGS Data Analysis in gene
 3. [Get to Know Your Reference Genome (GRCh37 vs GRCh38)](https://bitesizebio.com/38335/get-to-know-your-reference-genome-grch37-vs-grch38/)
 4. GATK Post: [Human genome reference builds - GRCh38/hg38 - b37 - hg19](https://gatkforums.broadinstitute.org/gatk/discussion/11010/human-genome-reference-builds-grch38-hg38-b37-hg19)
 5. [GRCh37 / hg19 / b37 / humanG1Kv37 - Human Reference Discrepancies](https://software.broadinstitute.org/gatk/documentation/article?id=23390)
+6. [Sequence masking](https://drive5.com/usearch/manual/masking.html)
+7. [How to...choose a reference genome?](https://genestack.com/blog/2016/07/12/choosing-a-reference-genome/)
 
 >The exome size increased significantly from GRCh37's 75,231,228 to GRCh38’s 95,505,476 by **20,274,248 nucleotides, a 26.9.0% increase**.(Source No. 2)...... Percentage wise, 2.43% of GRCh37 is exome as compared to 3.09% of CRCh38. The increase in exome size can be attributed to several reasons. First, the total number of distinct exons increased from 327,058 to 457,748 in GRCh38 and the median number of exons per gene also increased from 13 to 19 in GRCh38, while the median number of nucleotide per exon increased slightly al- most from 140 to 146 in GRCh38. These combined factors explain why the increase in the exome% in GRCh38.
 
