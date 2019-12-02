@@ -36,3 +36,8 @@ To make your life easy read my System Preparation Section before embarking upon 
 1. Source 1: [Here](https://hbctraining.github.io/Intro-to-Shell/lessons/01_the_filesystem.html)
 2. Source 2: 
 
+Download Data from SRA
+1. How to download data From SRA: Learn basic NGS data analysis from   
+[nextgenerationsequencinghq](https://www.youtube.com/watch?v=JvifigTF4yY)
+2. SRA-Toolkit: [One of the worst documented NCBI Tool](https://edwards.sdsu.edu/research/fastq-dump/) 
+
