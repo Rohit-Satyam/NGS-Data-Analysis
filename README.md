@@ -19,6 +19,7 @@ This repository tries to enlist the best practices for NGS Data Analysis in gene
 6. [Sequence masking](https://drive5.com/usearch/manual/masking.html)
 7. [How to...choose a reference genome?](https://genestack.com/blog/2016/07/12/choosing-a-reference-genome/)
 8. [Why Are There Ambiguous (N) Bases (Gaps) In The Human Genome](https://www.biostars.org/p/67068/)
+9. Which human reference genome to use? [Heng Li's Blog](http://lh3.github.io/2017/11/13/which-human-reference-genome-to-use)
 
 >The exome size increased significantly from GRCh37's 75,231,228 to GRCh38’s 95,505,476 by **20,274,248 nucleotides, a 26.9.0% increase**.(Source No. 2)...... Percentage wise, 2.43% of GRCh37 is exome as compared to 3.09% of CRCh38. The increase in exome size can be attributed to several reasons. First, the total number of distinct exons increased from 327,058 to 457,748 in GRCh38 and the median number of exons per gene also increased from 13 to 19 in GRCh38, while the median number of nucleotide per exon increased slightly al- most from 140 to 146 in GRCh38. These combined factors explain why the increase in the exome% in GRCh38.
 
