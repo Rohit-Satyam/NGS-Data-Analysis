@@ -41,3 +41,9 @@ Download Data from SRA
 [nextgenerationsequencinghq](https://www.youtube.com/watch?v=JvifigTF4yY)
 2. SRA-Toolkit: [One of the worst documented NCBI Tool](https://edwards.sdsu.edu/research/fastq-dump/) 
 
+## How to get Chromosome size
+1. Go to UCSC Table browser
+2. Select Clade: mammal, Assembly: GRCh38, group: All Tables,  Table: Chrominfo and hit Submit
+3. This wiil give you chromosome length
+
+
