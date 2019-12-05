@@ -37,7 +37,7 @@ To make your life easy read my System Preparation Section before embarking upon 
 1. Source 1: [Here](https://hbctraining.github.io/Intro-to-Shell/lessons/01_the_filesystem.html)
 2. Source 2: 
 
-Download Data from SRA
+## Download Data from SRA
 1. How to download data From SRA: Learn basic NGS data analysis from   
 [nextgenerationsequencinghq](https://www.youtube.com/watch?v=JvifigTF4yY)
 2. SRA-Toolkit: [One of the worst documented NCBI Tool](https://edwards.sdsu.edu/research/fastq-dump/) 
@@ -46,5 +46,8 @@ Download Data from SRA
 1. Go to [UCSC Table browser](https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=780963871_WaJykmAKwt9wE7PNSLuULyyD8Gtg&clade=mammal&org=&db=hg19&hgta_group=allTables&hgta_track=hg38&hgta_table=chromInfo&hgta_regionType=genome&position=&hgta_outputType=primaryTable&hgta_outFileName=)
 2. Select Clade: mammal, Assembly: GRCh38, group: All Tables,  Table: Chrominfo and hit Submit
 3. This wiil give you chromosome length
+
+## Convert .bcl to fastq
+1. Quick [read](https://medium.com/@marija190396/bcl-to-fastq-conversion-e289852823d0)
 
 
