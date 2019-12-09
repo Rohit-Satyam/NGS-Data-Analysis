@@ -5,3 +5,5 @@
 .bwt is binary, the Burrows-Wheeler transformed sequence.<br/>
 .pac is binary, packaged sequence (four base pairs encode one byte).<br/>
 .sa is binary, suffix array index.<br/>
+
+**[Is -a bwtsw flag compulsory for indexing human genome with BWA](https://www.biostars.org/p/302907/)**
