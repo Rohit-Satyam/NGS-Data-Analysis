@@ -47,10 +47,11 @@ To make your life easy read my System Preparation Section before embarking upon 
 2. Select Clade: mammal, Assembly: GRCh38, group: All Tables,  Table: Chrominfo and hit Submit
 3. This wiil give you chromosome length
 
-How Can I Get The Human Chromosome Centromere Position And Chromosome Length In Grch37/Hg19 see [here](https://www.biostars.org/p/2349/)
+**How Can I Get The Human Chromosome Centromere Position And Chromosome Length In Grch37/Hg19** see [here](https://www.biostars.org/p/2349/)
 
-Locating centromeres and telomeres
-This information can be found in the "gap" database table. Use the Table Browser to extract it. To do this, select your assembly and the gap table, then click the " filter Create" button. Set the "type" field to centromere telomere (separated by a space). [Source](https://genome.ucsc.edu/FAQ/FAQtracks#tracks20)
+**Locating centromeres and telomeres**
+1. In hg19: This information can be found in the "gap" database table. Use the Table Browser to extract it. To do this, select your assembly and the gap table, then click the " filter Create" button. Set the "type" field to centromere telomere (separated by a space). [Source](https://genome.ucsc.edu/FAQ/FAQtracks#tracks20)
+2. In hg38: See [source1](https://groups.google.com/a/soe.ucsc.edu/forum/#!msg/genome/SaR2y4UNrWg/XsGdMI3AazgJ) and [source2](https://groups.google.com/a/soe.ucsc.edu/forum/#!topic/genome/c9eZ_fywMbo)
 
 ## Convert .bcl to fastq
 1. Quick [read](https://medium.com/@marija190396/bcl-to-fastq-conversion-e289852823d0)
