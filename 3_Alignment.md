@@ -23,4 +23,5 @@ Install Sambamba as [follows](https://www.gungorbudak.com/blog/2018/11/21/how-to
 Refer to [GATK Blog](https://software.broadinstitute.org/gatk/documentation/article.php?id=6472)
 
 eg: **@RG**\t**ID:**HNKYTDSXX:1\t**SM:**12DIa_S6\t**PL:**illumina
+
 Atleast ID, SM and PL must be specified. 
