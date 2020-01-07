@@ -6,6 +6,9 @@ Tool used: [Fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 2. QC Faulire: In case if your data quality fails, look [here](https://sequencing.qcfail.com/software/fastqc/)
 
 Note: Paired-end sequencing is designed so that there is no overlap between forward and reverse reads. It is not done in order to read the same sequence in two directions. Having overlap data is less useful than having two unique reads that are a known distance apart.
+3. Duplicates in Illumina: [source](https://www.biostars.org/p/229842/)
+# How PCR duplicates arise in next-generation sequencing
+Read [here](https://www.cureffi.org/2012/12/11/how-pcr-duplicates-arise-in-next-generation-sequencing/) and [here](http://core-genomics.blogspot.com/2016/05/increased-read-duplication-on-patterned.html)
 
 
 ## Duplicates in FastQC report (A general Account)
