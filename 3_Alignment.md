@@ -18,3 +18,6 @@ RR:   <---------- R      <------------R <br/>
 **PNEXT in SAM File** Bam Format: What'S The Purpose Of Rnext And Pnext ? See [here](https://www.biostars.org/p/11790/)
 
 Install Sambamba as [follows](https://www.gungorbudak.com/blog/2018/11/21/how-to-install-sambamba-on-linux/) using static image.
+
+# What are read groups and how to construct them?
+Refer to [GATK Blog](https://software.broadinstitute.org/gatk/documentation/article.php?id=6472)
