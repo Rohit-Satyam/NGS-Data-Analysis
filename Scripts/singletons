@@ -1,0 +1,22 @@
+# BSUB -J filter.sh
+# BSUB -o filter.o
+# BSUB -e filter.e
+# BSUB -m node4
+# BSUB -n 8
+# BSUB -q regularq
+##Location of 
+tst='/home/parashar/scratch/bowtie'
+
+
+##put the sample name in a file
+##The sample file will be stored in current directory
+
+ls -1 $tst/*_mapq.bam | xargs -n 1 basename | uniq > temp2.txt
+
+while read p
+do
+basename ${p} _mapq.bam  >> testtemp.txt
+done < temp2.txt
+sort testtemp.txt | uniq > test.txt
+
+cat test.txt | parallel "samtools view -F 0x08 -h -b {}_mapq.bam > {}_filtered.bam 2> {}.stderr"
