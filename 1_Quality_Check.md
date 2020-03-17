@@ -3,6 +3,7 @@
 Tool used: [Fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) 
 
 Run Fastqc in parallel as [here](https://www.msi.umn.edu/support/faq/how-can-i-use-gnu-parallel-run-lot-commands-parallel)
+
 **Relevant Literature:** 
 1. Sequencing Quality Issues: [Base-calling for next-generation sequencing platforms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178052/pdf/bbq077.pdf)
 2. QC Faulire: In case if your data quality fails, look [here](https://sequencing.qcfail.com/software/fastqc/)
