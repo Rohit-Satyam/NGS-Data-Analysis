@@ -9,6 +9,7 @@ This repository tries to enlist the best practices for NGS Data Analysis in gene
 3. Eric Chow [explanation](https://www.youtube.com/watch?v=kN8B7-Vhqww)  behind the chemistry behind Illumina sequencers
 4. An interesting TED talk to get you excited: [How to read the genome and build a human being | Riccardo Sabatini](https://www.youtube.com/watch?v=s6rJLXq1Re0)
 5. Various NGS Platforms [here](https://www.youtube.com/watch?v=jFCD8Q6qSTM)
+6. Analysis pipelines for cancer genome sequencing in mice is a [Protocol](https://www.nature.com/articles/s41596-019-0234-7) with all the relevant command Published in 2020
 
 **Which Genome to start with: Grch37 or Grch38**
 1. [Genomic Analysis in the Age of Human Genome Sequencing](https://www.cell.com/cell/pdf/S0092-8674(19)30215-6.pdf)
