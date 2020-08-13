@@ -37,7 +37,7 @@ header=$(zcat $p | head -n 1);
 id=$(echo $header | cut -f 3-4 -d":" | sed 's/@//');
 sm=$(echo $p| xargs -n 1 basename | cut -f 1-2 -d"_");
 nam=$(echo $p | xargs -n 1 basename | cut -f 1-3 -d"_");
-echo "bwa mem -R '@RG\tID:$id\tSM:$sm\tPL:ILLUMINA' $hg38 $p $raw/${nam}_R2_001.fastq.gz | sambamba view -S -f bam /dev/stdin | sambamba sort -o $raw/alignments/${nam}.sorted.bam /dev/stdin 2> $raw/alignments/${nam}.sorted.stderr" >> $raw/alignments/aligncmd;
+echo "bwa mem -M -R '@RG\tID:$id\tSM:$sm\tPL:ILLUMINA' $hg38 $p $raw/${nam}_R2_001.fastq.gz | sambamba view -S -f bam /dev/stdin | sambamba sort -o $raw/alignments/${nam}.sorted.bam /dev/stdin 2> $raw/alignments/${nam}.sorted.stderr" >> $raw/alignments/aligncmd;
 done < "$raw/alignments/fastqlist"
 
 cat $raw/alignments/aligncmd | parallel -j 8 "{}"
