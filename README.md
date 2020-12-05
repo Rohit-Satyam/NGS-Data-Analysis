@@ -63,6 +63,14 @@ To make your life easy read my System Preparation Section before embarking upon 
 
 ![enter image description here](https://i.imgur.com/NlV7Acv.png)
 
+To download havy files from TCGA GDC portal, used manifest file. Use then Data Transfer Tool (DTT).
+
+![enter image description here](https://i.imgur.com/8t84P31.png)
+
+![enter image description here](https://i.imgur.com/3VSDRru.png)
+
+![enter image description here](https://i.imgur.com/6VXRYYo.png)
+
 
 
 
