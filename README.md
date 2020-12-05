@@ -57,4 +57,12 @@ To make your life easy read my System Preparation Section before embarking upon 
 ## Convert .bcl to fastq
 1. Quick [read](https://medium.com/@marija190396/bcl-to-fastq-conversion-e289852823d0)
 
+## Lessons learnt from TCGA 2020 Conference
+
+1. Use multiple variant callers (MuSE, Mutect2, VarScan2, SomaticSniper, Pindel were used in TCGA). Post annotation). Since germline mutations can be leaked and can be used to trace individuals they are usually masked. ![enter image description here](https://i.imgur.com/gWnJc4b.png)
+
+![enter image description here](https://i.imgur.com/NlV7Acv.png)
+
+
+
 
