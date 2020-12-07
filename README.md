@@ -71,6 +71,8 @@ To download havy files from TCGA GDC portal, used manifest file. Use then Data T
 
 ![enter image description here](https://i.imgur.com/6VXRYYo.png)
 
+![enter image description here](https://i.imgur.com/ukiqlLK.png)
+
 
 
 
